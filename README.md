@@ -1,1 +1,4 @@
-Repositório das matérias do 3° Semestre.
+## Repositório das matérias do 3° Semestre.
+
+- [Banco de Dados](https://github.com/gui-bvr/materias-03sem/tree/main/banco_de_dados)
+- [Estrutura de Dados](https://github.com/gui-bvr/materias-03sem/tree/main/estrutura_de_dados)
