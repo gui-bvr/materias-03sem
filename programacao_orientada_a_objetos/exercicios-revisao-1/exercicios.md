@@ -21,7 +21,7 @@ Criar um projeto no eclipse com o nome **revisao-seunome** e responder os seguin
  6. Encapsular todos os atributos da classe (criar os métodos set e get).
 </br>
 * 4: Crie uma classe **Televisao** e uma classe **ControleRemoto** que pode controlar o volume e trocar os canais da televisão. O controle de volume permite:
- 1. aumentar ou diminuir a potência do volume de som em uma unidade de cada vez;
- 2. aumentar e diminuir o número do canal em uma unidade
- 3. trocar para um canal indicado;
- 4. consultar o valor do volume de som e o canal selecionado.
+ 1) aumentar ou diminuir a potência do volume de som em uma unidade de cada vez;
+ 2) aumentar e diminuir o número do canal em uma unidade
+ 3) trocar para um canal indicado;
+ 4) consultar o valor do volume de som e o canal selecionado.
